@@ -1,0 +1,1 @@
+## Estudo sobre o framework FastAPI baseado no treinamento https://fastapidozero.dunossauro.com/estavel/
